@@ -1,6 +1,8 @@
 require('dotenv').config();
 
 const Telegram = require("node-telegram-bot-api");
+process.env["NTBA_FIX_319"] = 1;
+process.env["NTBA_FIX_350"] = 1;
 const moment = require("moment");
 const bot = new Telegram(
     process.env.TOKEN, {polling: false}
