@@ -10,7 +10,7 @@ You can check it working [here](https://t.me/summer2020days)
 * [Moment.js](https://momentjs.com/)
 * [DotENV](https://github.com/motdotla/dotenv)
 
-##Installation 
+## Installation 
 1. Clone repository 
 2. Install requirements with `npm install`
 3. Make changes in *.env* file
