@@ -1,0 +1,16 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
